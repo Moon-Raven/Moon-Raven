@@ -13,3 +13,21 @@
 🌱 Teaching Embedded Software Engineering at https://ftninformatika.com/kursevi/embedded-software-development/.
 
 📚 Committed to lifelong learning and mentoring in the field of computer engineering.
+
+## Tools & Technology
+
+![ANSI C](https://img.shields.io/badge/ANSI-darkgreen?logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=VisualStudioCode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-darkgreen?logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-darkorchid?logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-red?logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-yellow?logo=windows&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-red)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-yellow)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-darkslateblue)
