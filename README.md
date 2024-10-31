@@ -4,7 +4,7 @@
 
 🎓 PhD in Computer Engineering (topic: Stability analysis of irrational linear systems, code: https://github.com/Moon-Raven/fsals).
 
-💻 Proficient in C, Python, and Rust. Expertise in programming microcontrollers, both bare-metal and with embedded operating systems (FreeRTOS, OSEK, AUTOSAR OS, Embedded Linux, ZephyrOS).
+💻 Proficient in C, Python, and Rust. Expertise in programming microcontrollers, both bare-metal and with embedded operating systems (FreeRTOS, OSEK, AUTOSAR OS, Embedded Linux, Zephyr).
 
 🚀 Passionate about microcontrollers, operating systems and embedded software. Dedicated to sharing my knowledge with fellow engineers.
 
@@ -29,5 +29,6 @@
 ![Windows](https://img.shields.io/badge/Windows-yellow?logo=windows&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded-red)
+![Zephyr](https://img.shields.io/badge/Zephyr-blue)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-yellow)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-darkslateblue)
