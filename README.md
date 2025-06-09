@@ -1,10 +1,10 @@
 ## About Me
 
-🔧 Embedded Software Engineer with 6 years of experience.
+🔧 Embedded Software Engineer with 9 years of experience.
 
 🎓 PhD in Computer Engineering (topic: Stability analysis of irrational linear systems, code: https://github.com/Moon-Raven/fsals).
 
-💻 Proficient in C, Python, and Rust. Expertise in programming microcontrollers, both bare-metal and with embedded operating systems (FreeRTOS, OSEK, AUTOSAR OS, Embedded Linux, Zephyr).
+💻 Proficient in C, Python, and Rust. Expertise in programming microcontrollers, both bare-metal and with embedded operating systems (Zephyr, FreeRTOS, Embedded Linuc, OSEK, AUTOSAR OS).
 
 🚀 Passionate about microcontrollers, operating systems and embedded software. Dedicated to sharing my knowledge with fellow engineers.
 
