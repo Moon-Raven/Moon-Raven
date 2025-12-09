@@ -10,7 +10,7 @@
 
 👨‍💻 Currently focused on developing next-generation automotive software platforms, enabling software-defined vehicles.
 
-🌱 Teaching Embedded Software Engineering at https://ftninformatika.com/kursevi/embedded-software-development/.
+🌱 Teaching Embedded Software Engineering at https://ftninformatika.com/.
 
 📚 Committed to lifelong learning and mentoring in the field of computer engineering.
 
